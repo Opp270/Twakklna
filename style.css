@@ -7,6 +7,7 @@
 
 body, html{
     background-color: #101318;
+    font-family: 'Noto Kufi Arabic', sans-serif;
 }
 
 .cont{
@@ -35,6 +36,10 @@ header{
     font-size: 30px;
     color: #38aaaa;
     margin: 10px;
+}
+
+h3{
+    font-size: 15px;
 }
 
 .btry p{
